@@ -42,3 +42,9 @@ We do not guarantee compatibility or support for third-party resources.
 - Containers allow access to stashes when using an item, like a paperbag or backpack.
 - Access gloveboxes and trunks for any vehicle.
 - Random item generation inside dumpsters and unowned vehicles.
+
+## License
+[GNU General Public License v3.0](LICENSE)
+
+## Copyright
+Copyright © 2024 Overextended <https://github.com/overextended>
